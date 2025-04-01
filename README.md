@@ -35,7 +35,7 @@ I'm **Trần Hoàng Tín**. Here's a bit about me and my work.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phiilongg&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TranHoangTin&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
 </div>
 
 
